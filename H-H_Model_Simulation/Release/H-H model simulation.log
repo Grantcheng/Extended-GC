@@ -1,0 +1,19 @@
+﻿生成启动时间为 2011/11/1 23:11:40。
+     1>项目“J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\H-H model simulation\H-H model simulation.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\H-H model simulation.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\VC2008\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\Release\H-H model simulation.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\H-H model simulation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\Release\H-H model simulation.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\Release\H-H model simulation.lib" /MACHINE:X86 Release\ISIJin.obj
+         "Release\Lyapunov exponents.obj"
+         Release\mainHH.obj
+         Release\MGS.obj
+         Release\RK4.obj
+         Release\SHHfunction.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\Release\H-H model simulation.exe”
+     1>已完成生成项目“J:\My Dropbox\Graduate thesis\H-H model C++\H-H model simulation\H-H model simulation\H-H model simulation\H-H model simulation.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.34
